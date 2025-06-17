@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/quantml-github-ai-kline-badge.png)](https://mseep.ai/app/quantml-github-ai-kline)
+
 # AI看线 - 股票技术分析与AI预测工具（AI-Kline - Stock Technical Analysis and AI Prediction Tool）
 
 
